@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Luc Tran",
+        "city":"Ha Noi",
+        "state":"HN"
+    },
+    {
+        "name":"Tran Luc",
+        "city":"Nam Dinh",
+        "state":"ND"
+    },
+    {
+        "name":"Hoang",
+        "city":"Ha Nam",
+        "state":"HN"
+    },
+    {
+        "name":"Hieu Phan",
+        "city":"Ha Noi",
+        "state":"HN"
+    },
+    {
+        "name":"Thanh Dang",
+        "city":"Bac Ninh",
+        "state":"BN"
+    }
+]
